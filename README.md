@@ -25,11 +25,6 @@ The movie dataset is sourced from reputable sources and contains attributes such
 3. Ensure Python [python 3.11.0 version] is installed.
 4. The movie dataset is already set in the directory.
 
-## Usage
-Run the main analysis script:
-```bash
-python analyze_movies.py
-```
 
 ## Future Work
 Our movie dataset analysis lays the groundwork for potential future enhancements and captivating new avenues of exploration:
