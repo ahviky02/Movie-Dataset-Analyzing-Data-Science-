@@ -14,7 +14,7 @@ The movie dataset is sourced from reputable sources and contains attributes such
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Movie-Dataset-Analyzing-Data-Science.git
+   git clone https://github.com/yourusername/Movie-Dataset-Analyzing-Data-Science-.git
    ```
 
 2. In the Anaconda Prompt, execute the following command to install the required dependencies:
