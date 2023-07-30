@@ -44,4 +44,4 @@ Our analysis follows these key steps:
 - Predictive Modeling: Utilize machine learning algorithms to predict movie success and box office performance.
 
 ## License
-This project is licensed under the [mention the license name, e.g., MIT License]. See the LICENSE file.
+This project is open source and available under the MIT License.
