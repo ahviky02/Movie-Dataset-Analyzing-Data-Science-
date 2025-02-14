@@ -40,7 +40,7 @@ In this project, we aim to utilize the "movie.csv" dataset to visualize and extr
 
 ## Deployment
 
-The project is deployed using Streamlit and can be accessed (https://ahviky02.streamlit.app/).
+The project is deployed using Streamlit and can be accessed ([https://ahviky02.streamlit.app/](https://movies-data-analysing.streamlit.app/)).
 
 ## License
 
